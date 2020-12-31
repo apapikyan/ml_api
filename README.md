@@ -1,6 +1,6 @@
 # How to run
 
-##Install python and create virtual environment 
+## Install python and create virtual environment 
 1. `pt install python3.6`
 
 2. `pip3 install virtualenv`
@@ -13,7 +13,7 @@
 
 6. `pip install -r requirements.txt`
 
-##Make migrations and start the server
+## Make migrations and start the server
 1. `cd ml_api`
 
 2. `python manage.py makemigrations`
